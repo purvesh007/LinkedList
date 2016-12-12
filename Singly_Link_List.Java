@@ -1,4 +1,4 @@
-
+// Contains implementtaion of different methods like delete, insert, search, etc..
 public class linkedlist
 {
 	private Node head;
