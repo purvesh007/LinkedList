@@ -93,10 +93,6 @@ public class Doubly_LinkedList<T> {
 		else{
 			System.out.println(current.value);
 			print(current.next);
-		}
-		
-		
+		}	
 	}
-	
-
 }
